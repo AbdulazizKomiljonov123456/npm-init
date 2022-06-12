@@ -1,0 +1,19 @@
+{
+  "name": "abdulaziz1",
+  "version": "1.0.0",
+  "description": "abdulaziz.gulp.yig'ish",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/AbdulazizKomiljonov123456/gulpneww.git"
+  },
+  "author": "Abdulaziz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AbdulazizKomiljonov123456/gulpneww/issues"
+  },
+  "homepage": "https://github.com/AbdulazizKomiljonov123456/gulpneww#readme"
+}
